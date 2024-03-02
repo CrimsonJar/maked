@@ -1,0 +1,115 @@
+.main {
+  width: 90%;
+  height: 90%;
+}
+.middle-part {
+  height: 30%;
+}
+.bottom-part {
+  height: 35%;
+}
+.full {
+  height: 100%;
+}
+.upper-part {
+  height: 35%;
+  display: flex;
+}
+
+.tabs {
+  display: flex;
+}
+
+.tabs-item {
+  margin-right: 10px;
+  padding: 5px;
+}
+.card-part {
+  display: flex;
+}
+.tabs-f-news {
+  left: 30%;
+  position: absolute;
+}
+.news {
+  margin-top: 5%;
+  margin-left: 35%;
+}
+.stock {
+  margin-top: 5%;
+  margin-left: 35%;
+}
+.LOGO {
+  font-size: 125px;
+}
+.search {
+  display: block;
+  margin: 0 auto;
+  margin-top: 5%;
+  display: flex;
+  align-items: center;
+}
+.search > input {
+  width: 700px;
+}
+
+.tabs-container {
+  left: 27%;
+  position: absolute;
+  top: 57%;
+}
+.input-tab {
+  left: 27%;
+  display: flex;
+  position: absolute;
+  height: 35px;
+}
+.banner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+.bottom-part {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tabs-container-too1 {
+  left: 20%;
+  top: 74%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}
+.tabs-container-too2 {
+  left: 40%;
+  top: 74%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}
+.tabs-container-too3 {
+  left: 65%;
+  top: 74%;
+  display: flex;
+  justify-content: center;
+  position: absolute;
+}
+.tabs-itemtabs-container-too1 {
+  width: 300px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.tabs-itemtabs-container-too2 {
+  width: 350px;
+  margin-left: 20px;
+  padding: 5px;
+}
+.tabs-itemtabs-container-too3 {
+  width: 350px;
+  margin-left: 40px;
+  padding: 5px;
+}
